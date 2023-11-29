@@ -5,7 +5,7 @@ Para este examen se espera que el estudiante comprensión detallada y que pueda 
 - Lectura y Comprensión: Utiliza libros de texto y recursos en línea para comprender los conceptos clave. Toma notas mientras estudias para facilitar la revisión posterior.
 - Práctica y Resolución de Problemas: Realiza ejercicios de problemas relacionados con la genética y el ciclo celular. Resuelve problemas de cruces genéticos y problemas de meiosis para afianzar los conceptos.
 - Recursos Adicionales: Utiliza herramientas como videos educativos, simulaciones y aplicaciones interactivas para reforzar la comprensión.
-- Grupos de Estudio y Discusión:L Participa en grupos de estudio para discutir y resolver dudas con otros estudiantes. Explica los conceptos a otros para reforzar tu comprensión.
+- Grupos de Estudio y Discusión: Participa en grupos de estudio para discutir y resolver dudas con otros estudiantes. Explica los conceptos a otros para reforzar tu comprensión.
 
 # Desgloze de Temas
 ## El Ciclo Celular

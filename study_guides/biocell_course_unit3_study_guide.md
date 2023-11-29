@@ -1,4 +1,8 @@
+# Guía de Estudio: Replicación Celular, Señalización, Cáncer, Inmunología y Técnicas
+Guía para conceptos clave en biología celular y molecular, desde la replicación del ADN, las vías de señalización celular, los fundamentos del cáncer y la inmunología y técnicas relevantes en el campo. La expectativa luego de seguir esta guía es poder demonstrar el entendimiento de los procesos celulares y moleculares esenciales a continuación, así como su aplicación en la investigación y la medicina.
+
 ## Replicación Celular:
+Explora el proceso de duplicación del material genético y los mecanismos que aseguran la precisión en la replicación del ADN. Comprende la importancia de la replicación en la transmisión de información genética y en la división celular.
 - **Componentes y etapas del ciclo celular**
     - Interfase
     - Mitosis (y sus etapas)
@@ -27,6 +31,7 @@
 
 
 ## Mecanismos de Señalización y Comunicación Celular:
+Comprende las vías de señalización intracelular, desde la detección de señales hasta las cascadas de eventos que regulan procesos celulares cruciales. Entiende cómo los receptores celulares, como los RTKs y las proteínas G, transmiten señales y regulan funciones vitales en las células.
 - **Tipos de señalización y respuestas celulares**:
     - Autocrinas, paracrinas, endocrinas
     - Ejemplos de respuestas
@@ -48,6 +53,7 @@
     - Mecanismo de toxinas
 
 ## Introducción a la biología molecular y señalización en el Cáncer:
+Explora las bases moleculares del cáncer, enfocándote en regulación celular alterada, el papel de oncogenes y genes supresores y los mecanismos involucrados en la transformación celular. Familiarízate con la función de la angiongenesis en la progresión de tumores y con el uso de caracterización génica como biomarcadores informativos soobre la naturaleza del tumor.  
 - **Oncogenes y Genes Supresores**: 
     - Funciones y concecuencias de mutaciones asociadas.
 - **Instabilidad Genómica**: 
@@ -60,6 +66,7 @@
     - Biomarcadores para diagnóstico y seguimiento.
 
 ## Introducción a la biología molecular y señalización en el Inmunología:
+Familiarízate con los mecanismos principales de la inmunidad innata y adaptiva en términos de receptores de señalización y función de anticuerpos.
 - **Inmunidad Innata**: 
     - Pattern recognition receptors (or PRRs). 
 - **Inmunidad Adaptiva**: 
@@ -69,6 +76,8 @@
 
 
 ## Técnicas Básicas en Biología Molecular:
+Familiarízate con las técnicas y metodologías utilizadas en biología celular y molecular, y
+aprende cómo estas herramientas son aplicadas en la investigación biomédica y en la comprensión de los procesos celulares y moleculares.
 - **PCR y qPCR**: 
     - Aplicaciones y precisión en análisis.
 - **Secuenciación de Nueva Generación (NGS)**: 
