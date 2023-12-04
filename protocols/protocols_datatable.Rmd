@@ -1,0 +1,40 @@
+---
+title: "Protocols Datatable"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(DT)
+library(tidyverse)
+```
+
+```{r}
+header_callback <- JS(
+  "function(thead, data, start, end, display){",
+  "  $('th', thead).css({'font-weight': 'bold', 'font-size': '120%'});",
+  "}")
+
+initComplete_callback <- JS(
+    "function(settings, json) {",
+    "$(this.api().table().header()).css({'background-color': '#000', 'color': '#fff'});",
+    "}")
+
+protocols_table <- read.delim("/Volumes/OMNIBUS/riveraomics/resources/protocols/protocols_table.tsv") %>%
+  mutate(`Protocol Name` = sprintf('<a href="%s">%s</a>', URL, Protocol.Name)) %>%
+  select(-URL, -Protocol.Name) %>% select(`Protocol Name`, Description) %>%
+  datatable(., escape = FALSE, rownames = FALSE, 
+            options = list(paging = FALSE,
+                           initComplete = initComplete_callback,
+                           headerCallback = header_callback, 
+                           theme = 'bootstrap')) %>%
+  formatStyle(c("Protocol Name"), fontSize = 'larger', fontFamily = 'Arial')
+
+
+protocols_table
+```
+```{r}
+# Export DataTable as HTML
+saveWidget(protocols_table, "protocols_table.html", selfcontained = TRUE)
+```
+

@@ -1,0 +1,24 @@
+Protocol Name	URL	Description
+Alternative Splicing Detection	/protocols/alternative-splicing-detection	Protocol for identifying and analyzing alternative splicing events in genetic material.
+Analysis of gene structure & primer design	https://benchling.com/protocols/km2wccIi/analysis-of-gene-structure-primer-design	Process for examining gene structures and designing primers for specific sequences.
+Direct RNA sequencing with ONT		"Method for RNA sequencing directly, potentially using Oxford Nanopore Technologies (ONT) technology."
+Counting cells with Hemocytometer	https://benchling.com/protocols/wbOuLNnL/counting-cells-with-hemocytometer-manual	"Technique for manually counting cells using a hemocytometer, often used in cell culture assessments."
+Human Tissue Cell Culture (Adherent)	https://benchling.com/protocols/AE0j31o2/human-tissue-cell-culture	Guidelines for culturing human tissue cells that adhere to surfaces for experimental purposes.
+Human Tissue Cell Culture (Non-adherent)		Procedures for culturing human tissue cells that do not adhere to surfaces in laboratory conditions.
+Human Tissue Cell Culture (Hybrid)		Protocol for culturing hybrid human tissue cells with specific characteristics or genetic modifications.
+Human 3D Cell Culture		"Methods for culturing human cells in a three-dimensional environment, mimicking natural tissue growth."
+Isolating the Mitochondria	https://benchling.com/protocols/qiq4my6x/isolating-the-mitochondria	"Techniques for isolating mitochondria, the cell's powerhouse, for further analysis or experimentation."
+Long-read sequencing (PacBio)		Sequencing protocol using Pacific Biosciences (PacBio) technology for obtaining long DNA/RNA reads.
+Long-read sequencing (ONT)		Sequencing protocol utilizing Oxford Nanopore Technologies (ONT) for long-read DNA/RNA sequencing.
+Micropipette Evaluation	https://benchling.com/protocols/N5klQqR5/micropipette-evaluation	Assessment process for micropipettes used in accurately measuring and transferring small liquid volumes.
+Polymerase Chain Reaction (PCR)		Standard protocol for amplifying specific DNA sequences using the polymerase chain reaction technique.
+Real-time (quantitative) PCR (qPCR)		"Protocol for quantitatively measuring DNA amplification in real-time, often used for gene expression studies."
+Reverse Transcription (RT)	https://benchling.com/protocols/7ZJObVGt/reverse-transcription-rt	"Method for synthesizing complementary DNA (cDNA) from RNA templates, essential in gene expression studies."
+RNA Integrity Assessment via Agarose Bleach Gel	https://benchling.com/protocols/f4ed4SZs/rna-integrity-agarose-bleach-gel	Technique for assessing RNA integrity using agarose gel electrophoresis combined with bleach treatment.
+RNA Isolation via TRIzol	https://benchling.com/protocols/sbrkyp8j/rna-extraction-with-trizol	Procedure for isolating RNA from biological samples using TRIzol reagent for downstream applications.
+SDS-PAGE	https://benchling.com/protocols/00hkOfc9/sds-page-sodium-dodecyl-sulfate-polyacrylamide-gel-electrophoresis	Standard method for separating proteins based on their size using polyacrylamide gel electrophoresis with SDS.
+Short-read RNA-sequencing with Illumina		"Protocol for short-read RNA sequencing using Illumina technology, enabling high-throughput analysis."
+Staining Cell Compartments	https://benchling.com/protocols/Xomyw5vX/staining-the-mitochondria-and-the-nucleus	Procedure for staining cellular compartments like mitochondria and nuclei for visualization purposes.
+Staining Cellular Proteins		"Process for staining proteins within cells, aiding in their visualization and localization within cells."
+Total Protein Determination via BCA method	https://benchling.com/protocols/3XAUQdcm/total-protein-determination-with-bicinchoninic-acid-bca-method	Protocol for quantifying total protein content using the Bicinchoninic Acid (BCA) method.
+Western Blot	https://benchling.com/protocols/dPja6Ow2/western-blot-protein-blotting-onto-a-pvdf-membrane-traditional-method	Standard technique for detecting specific proteins in a sample using antibodies and gel electrophoresis.
