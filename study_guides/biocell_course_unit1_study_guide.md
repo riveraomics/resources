@@ -26,19 +26,16 @@ Explora macromoléculas como ácidos nucleicos, aminoácidos, oligosacáridos y 
     - Fundamentos de la Interactómica
     - Fundamentos de las Proteopatías 
     - Diseño de fármacos basados en estructura de proteínas.
-
 - **Organismos modelos**:
     - Tipos (nombres comunes es suficiente... bono por nombre científico)
         - ecoli, levadura, mosca, c elegans, ratón, zebrafish,  
     - Función específica de cada tipo
     - células HeLa
-
 - **Estructura de Células Eucariotas y Procariotas**:
     - Propiedades básicas de las células
     - **Aspectos Compartidos**: Membrana, Información Genética, Procesos Metabólicos, Producción de Energía, Fotosíntesis, entre otros.
     - **Características Exclusivas de Células Eucariotas**: Núcleo con envoltura nuclear, Organelos Membranosos, Estructuras Especializadas, entre otros.
-
-- Estructura de la membrana plasmática
+- **Estructura de la membrana plasmática**
     - Compartimentación, Actividades Bioquímicas, Barrera selectivamente permeable, Transporte de Solutos/iones, Respuesta a Señales Externas, Interacciones Intercelulares: comunicación cel-cel, Traducción de Energía
     - Distribución asimétrica de las membranas
     - Clases de Proteinas membranales
@@ -47,7 +44,6 @@ Explora macromoléculas como ácidos nucleicos, aminoácidos, oligosacáridos y 
         - Transporte Activo
         - Transporte Pasivo
         - influx, eflux 
-
 - **Diferenciación Celular, Células Madre y Células iPS**:
     - Factores de diferenciación
     - Potencial Pluripotente.
@@ -88,7 +84,7 @@ Describe la bioenergética y las enzimas claves en el metabolismo celular. Desgl
         - malate-aspartate glycerol-phosphate shuttle
     - **Maquinaria de Síntesis de ATP**: 
         - Cadena de transporte de electrones (CTE)
-            - Complejos I, II, II, IV
+            - Complejos I, II, III, IV
         - Gradiente Electroquímico
         - Mecanismo quimiosmótico
         - Fosforilación Oxidativa
